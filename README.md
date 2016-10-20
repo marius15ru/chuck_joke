@@ -1,3 +1,4 @@
+[![Build Status](your travis url for the repo here.png)](your travis url for the repo here)
 # chuck_joke
 (T-303-HUGB, Hugbúnaðarfræði, 2016-3)
 
